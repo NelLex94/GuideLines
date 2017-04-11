@@ -1,0 +1,6 @@
+Se puede crear una pagina web html , haciendo como en php ?
+Cargando el head y el footer en todas las paginas pero cambiando el body.
+
+Index haria a modo de Index Php conteniendo las direcciones de todos los archivos
+
+Se podria si se creara la pagina como si fuera un script toda en si

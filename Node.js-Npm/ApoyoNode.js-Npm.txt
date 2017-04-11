@@ -1,0 +1,43 @@
+﻿Esta es la raiz si el proyecto se hace con Node.Js / Npm
+
+se puede iniciar con npm init (-yes / --y ) hace un archivo package.json si usas los comandos 
+indicados lo hace directamente con un predetrminado 
+
+Guia Grunt (Aprender para que sirve y decidir si instalarlo ) :
+http://ryanchristiani.com/getting-started-with-grunt-and-sass/
+
+Guia Node.js & Npm :
+https://www.jmramirez.pro/tutorial/instalacion-del-entorno-node-js/
+https://www.jmramirez.pro/tutorial/npm-gestor-modulos-node-js/
+
+Node.js Es bueno para hacer aplicaciones con mucho trafico disminuyendo los
+recursos que utiliza cada acceso a la aplicacion
+
+Npm es el gestor de modulos ( Librerias , Packages , Frameworks & Resets )
+
+La instalacion de Node.js incluye Npm
+
+Npm se debe abrir en la raiz de nuestro projecto con el archivo packaje.json
+el cual contiene todos los modulos que tenemos instalados ,
+si cargamos este archivo nos las descargaremos todas de forma automatica
+ejecuntando un comando que abra ese packaje 
+( npm install --save )
+poniendo npm install se accede al package.json y se descargan todos los modulos
+
+¿ Cuando cargas con el npm los paquetes estos se cargan en la pagina web ,
+creando asi un paquete mas pesado para el usuario y que realentize la carga
+de la pagina web ?
+
+Si se pide que la instalacion sea global(-g) de algun paquete es porque usa comandos en el cmd 
+
+Para utilizar los modulos
+var <package_name> = require('<package_name>');
+var output = <package_name>.funcion();
+
+En el Paquete de Instaladores para este apartado vienen :
+Node.js & Npm
+
+archivos y carpetas que marcan el uso de este sistema node modules y package.json
+
+
+

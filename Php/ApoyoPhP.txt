@@ -1,0 +1,36 @@
+Lenguaje Lado Servidor
+Php debe de abrirse en un servidor local/online
+
+El archivo index es el que contiene la
+direccion de las demas paginas y las carga
+
+Content contiene :
+Header Es el encabezado que siempre se cargara
+Body Es el cuerpo principal de la pagina que siempre se cargara al acceder
+Subtemas-0/3 Son los contenidos de la pagina
+Footer Es el pie de la pagina que siempre se cargara
+Cada uno en su carpeta correspondiente
+
+Css contiene :
+Main Css que se aplica a toda la pagina web
+Secondary Css que se aplica a cada Subtema especificamente
+
+Fonts contiene :
+Todos los archivos con la fuente tipografica
+
+Frameworks, Librerys & Resets contiene :
+Todos los extras referentes a la programacion que necesite la aplicacion
+
+Imgs contiene :
+Cada imagen en la carpeta a la que pertenece dependiendo de su categoria
+
+Objects contiene :
+Clases Contiene todos los objetos y sus metodos
+Methods Contiene todos los metodos del programa
+
+Scripts contiene :
+Ajax
+Js
+Php
+
+Aprender a hacer las direcciones url seo friendly

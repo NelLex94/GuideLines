@@ -1,0 +1,49 @@
+﻿Tareas:
+Subir instaladores a algun servidor e indicar en general el link
+
+Buscar Aplicaciones para medir el Rendimiento de una Aplicacion Web y poder Optimizarla
+
+Buscar Informacion sobre como Hacer Tests de las Aplicaciones Web y que se puede obtener de hacer esos tests
+
+Buscar Informacion sobre la Depuracion de Aplicaciones Web / Debugging
+
+Buscar Informacion sobre el .gitignore y .gitattributes
+
+Buscar Informacion sobre Licencias y seleccionar una y añadirla al proyecto de git
+
+Buscar en todos los txt tareas y pasarlas aqui
+
+Buscar informacion sobre Ionic Es un framework para crear aplicaciones moviles con cordova?
+
+Buscar informacion de sobre Sass (grunt)
+
+Animaciones Css con animate Css
+
+Bower Limpia los archivos innecesarios ?
+
+Buscar informacion sobre Gulp
+
+https://market.ionic.io/starters/ionic-starter-template
+
+Informacion sobre la ofuscacion de codigo
+
+Programas ionic para ayudar al desarrollo de la aplicacion la limpieza de bug etc
+
+indicar para que sirve cada uno de los sistemas y con que mas debe usarse o que mas usa ya de por si al iniciarse
+
+Indicar que archivos tiene cada framework o lo que sean
+
+Reorganizar con los conocimientos actuales Unir de este modo
+
+Npm Node.js	-NodeModules
+
+Angular		-SRC	
+
+Cordova		-www
+
+Ionic		-Ionic crea todo menos el git
+
+Txt con la fusion de todos los sistemas para moviles y con ideas de como funcionan como que ionic usa los plugin de cordova
+
+
+Seguir con el tutorial de Angular del Editor de heroes

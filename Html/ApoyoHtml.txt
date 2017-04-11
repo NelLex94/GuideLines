@@ -1,0 +1,25 @@
+Esta es la raiz si el proyecto se hace con Html
+
+El archivo index es el archivo que se inicia
+de forma predeterminada al abrir la web
+
+Css contiene :
+Main Css que se aplica a toda la pagina web
+Secondary Css que se aplica a cada Subtema especificamente
+
+Fonts contiene :
+Todos los archivos con la fuente tipografica
+
+Frameworks, Librerys & Resets contiene :
+Todos los extras referentes a la programacion que necesite la aplicacion
+
+Imgs contiene :
+Cada imagen en la carpeta a la que pertenece dependiendo de su categoria
+
+Scripts contiene :
+Ajax Codigo para funcionar como intermediario entre cliente y servidor
+Js Codigo para trabajar en el cliente
+Php Codigo para trabajar en el servidor
+
+Subtema-0 contiene :
+Ademas de su propio html los diferentes html correspondientes a los subtemas de la pagina web

@@ -1,0 +1,74 @@
+﻿Paginas Utiles :
+https://desarrolloweb.com/
+http://librosweb.es/
+
+Guia : http://www.forocoches.com/foro/showthread.php?t=5465950
+
+Html : Archivos Html que aportan el contenido a la pagina
+PhP : Archivos Php que permiten interactuar con el Servidor
+o Archivos Php que aportan contenido y dinamismo a la pagina
+interactuando con el servidor
+Css : Archivos Css que aportan estilo
+Font : Archivos Ttf que contienen las fuentes
+Js : Archivos Js que aportan dinamismo a la pagina
+Ajax : Son Archivos Js con un lenguaje para conectar servidor y cliente sin
+necesidad de refrescar la pagina de forma asincrona
+Normalize : Archivo Css para resetear las propiedades css de la pagina
+Bootstrap : Libreria Css(Apoyo para hacer las paginas responsivas y first mobile
+a base de clases , ids y etiquetas ) y Js(Ni idea de como funciona o para que)
+(Dependiendo de la version de Bootstrap Aplica una de Normalize)
+JQuery :
+  JQuery - Libreria Js (Framework De Js)
+  Mobile - Libreria Css y Js (Libreria Css Responsiva)
+  UI - Libreria Css y Js (Diseño de Interfaz)
+Angular : FrameWork
+
+Para la creacion de
+Aplicaciones Moviles : Node.js + Npm + Cordova + Mobile Responsive Css Frameworks + Plugins Cordova (Acceso a los componentes del movil) + Ionic
+Aplicaciones de Escritorio : Electron.js
+
+Control de Versiones : Git / GitHub / SourceTree
+Aplicacion para crear un Servidorlocal : XAMP
+Aplicacion para subir la pagina web a la red : Filezilla
+
+Editor de archivos : Atom
+Atom Plugins: Atom Beautify , Atom Bootstrap4 , Atom Live Server ,
+Atom Minify , Autoprefixer , Build Npm Apm , Busy Signal ,
+Color Picker , Emmet , File Icons , Imagemin , Intentions ,
+Jquery Snippets , Linter , Linter Css Js Html , Linter UI Default ,
+Open In Browser , Pigments , Atom Typescript , Uglify Html & Webbox Color.
+
+Beautify, Minify, Format, or Compress :
+http://www.cleancss.com/
+
+Minify Js Css
+Aplicacion Escritorio :
+Aplicacion Online : http://www.minifier.org/
+Plugin Atom : atom-minify (Control + Shift + M)
+
+La minificacion de Html y Php puede provocar problemas de contenido y programacion
+
+Minify Html
+Aplicacion Escritorio :
+Aplicacion Online :
+Plugin Atom : uglify-html(Not worth)
+
+Minify Php
+Aplicacion Escritorio :
+Aplicacion Online :
+Plugin Atom :
+
+Link al Servidor de descarga del pack de Instaladores:
+Link
+
+En el Paquete de Instaladores para este apartado vienen :
+Atom
+Xampp
+Filezilla
+Google Chrome
+Mozilla Firefox
+Internet Explorer
+Microsoft Edge
+
+Libreria : proporciona una serie de funciones/métodos muy concretos para simplificar tareas complejas.
+FrameWork : aporta una estructura completa en la que nosotros "encajamos" nuestro código, implementando la lógica concreta de la aplicación.

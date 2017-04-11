@@ -1,0 +1,62 @@
+https://cli.angular.io/
+https://github.com/angular/angular-cli
+https://angular.io/docs/ts/latest/cli-quickstart.html
+
+
+MVC
+https://desarrolloweb.com/articulos/que-es-mvc.html
+
+npm install -g angular-cli
+
+Buscar plugins atom y angular 2
+
+"ng" es el diminutivo de angular y el comando que usaremos a traves de la consola de comandos
+
+ng new "proyecto" | crea un nuevo proyecto con el nombre indicado
+que sera ademas el nombre de la carpeta y de forma automatica se crearan las subcarpetas
+
+Se crea como si fuera tmbn un proyecto de git?
+Al crear el directorio angular se ha enviado este mensaje 
+Directory is already under version control. Skipping initialization of git.
+Osea que inica Git y inlcuye un gitignore que evita algunas carpetas de algunos IDE
+
+ng serve | lanza el proyecto en el servidor que se actualiza al guardar ne el editor
+
+npm start | lanza el proyecto tmbn 
+
+Src/App es la carpeta donde se programa la aplicacion , pero no es la raiz pues al desplegar el proyecto la compilacion se lleva a dist
+
+Public es la carpeta dond iran las imagenes
+
+Funciona usando npm asi que bajar todas las librerias a node modules 
+
+Buscar Informacion sobre Angular 2/4 y para que sirve
+Tutorial Angular 2 :
+https://desarrolloweb.com/manuales/manual-angular-2.html
+Tutorial Angular 4 :
+
+hay dos descargas / inicio 
+el quickstar que se abre con 
+{
+git clone https://github.com/angular/quickstart.git quickstart
+cd quickstart
+npm install
+npm start
+}
+y el de inicio de proyecto normal 
+{
+ng new "proyecto"
+}
+
+
+Borrado de archivos que sobran del quickstart{
+for /f %i in (non-essential-files.txt) do del %i /F /S /Q
+rd .git /s /q
+rd e2e /s /q
+}
+
+Que es una
+master template¿?¿
+
+
+Archivos reconocer angular en las imagenes tanto normal como quickstart - SRC y dentro de el app y todos los ts y modules y tal

@@ -1,0 +1,5 @@
+Pagina Web para obtener la fuente de texto a partir de una imagen :
+https://www.whatfontis.com/
+Para posteriormente Buscarla y Descargarla a traves de internet (Cuidado con las de pago o con licencia)
+
+Los archivos que contienen las fuentes tipograficas tienen la extension .ttf

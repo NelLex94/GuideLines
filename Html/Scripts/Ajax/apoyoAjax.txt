@@ -1,0 +1,2 @@
+Lenguaje de Lado Cliente-Servidor
+Ajax debe de abrirse en un servidor local/online debido a que interactua con el servidor

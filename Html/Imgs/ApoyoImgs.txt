@@ -1,0 +1,18 @@
+﻿Pagina para la compresion de Imagenes al maximo sin que pierdan calidad:
+http://optimizilla.com/es/
+
+Usar Imagenes Png a no ser que sean imagenes en movimiento , en cuyo caso seran Gif o en el caso de fotografías Jpg
+
+Tutorial para editar efecto de carga con photoshop : Png Entrelazado / Jpg Progresivo
+https://www.40defiebre.com/optimizar-imagenes-web/
+
+Imagenes de espera para la carga de ajax :
+http://www.ajaxload.info/
+
+Para Logotipos e Iconos usar formato Vectorial con extension EPS / SVG
+El logo debemos de tenerlo en dos formatos el EPS diseñadores web, impresores, desarrolladores y otros profesionales
+Y en PNG para los documentos, presentaciones, etc...
+
+Tamaño de Imagenes Maximo :
+Fondo 150kb
+Imagenes Sueltas 50kb

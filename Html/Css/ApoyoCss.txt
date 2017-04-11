@@ -1,0 +1,6 @@
+﻿Desarrollar siempre el Mobile First
+
+En Main estara el Css que se aplica a todas las paginas web
+
+En Secondary estaran las carpetas de los subtemas que contendran los css para
+las particularidades de diseño de cada subtema

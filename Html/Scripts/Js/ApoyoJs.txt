@@ -1,0 +1,2 @@
+Lenguaje de Lado Cliente
+Usar Transiciones de Css mejor que Animaciones de JavaScript asi que es mejor añadir clases

@@ -1,0 +1,22 @@
+JQuery
+Acceso a la web donde se descarga la ultima version : https://jquery.com/download/
+Seleccionar ultima version -
+Descargar v3.1.1 : https://code.jquery.com/jquery-3.1.1.min.js
+Descargar v3.1.1 por CDN : https://code.jquery.com/jquery-3.1.1.min.js
+Descargar v3.1.1 por CDN Google  : https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.jshttps://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
+
+JQuery Mobile
+Acceso a la web donde se descarga la ultima version : http://jquerymobile.com/download-builder/
+Seleccionar ultima version -
+Descargar v1.4.5 : http://jquerymobile.com/resources/download/jquery.mobile-1.4.5.zip
+Descargar v1.4.5 Css CDN Google : https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.css
+Descargar v1.4.5 Js CDN Google : https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js
+(Buscar CDN Propio)
+
+JQuery UI
+Acceso a la web donde se descarga la ultima version : http://jqueryui.com/download/
+Seleccionar ultima version -
+Descargar v1.12.1 : http://jqueryui.com/resources/download/jquery-ui-1.12.1.zip
+Descargar v1.12.1 Css CDN Google : https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css
+Descargar v1.12.1 Js CDN Google : https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
+(Buscar CDN Propio)

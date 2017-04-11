@@ -1,0 +1,24 @@
+Es un proyecto de github que contiene node.js , npm y electron.
+Asi que hay que abrirlo con el npm start
+
+Para descargar aplicacion de ayuda :
+https://electron-api-demos.githubapp.com/updates/ElectronAPIDemosSetup.exe
+
+Quick Start
+# Clone the Quick Start repository
+$ git clone https://github.com/electron/electron-quick-start
+
+# Go into the repository
+$ cd electron-quick-start
+
+# Install the dependencies and run
+$ npm install && npm start
+
+En el readme.md esta toda la informacion
+
+Documentacion Mas avanzada :
+https://electron.atom.io/docs/
+
+En el Paquete de Instaladores para este apartado vienen :
+Electron QuickStart
+Electron ApiGuide

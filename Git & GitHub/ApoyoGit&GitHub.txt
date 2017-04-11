@@ -1,0 +1,49 @@
+﻿Esta es la raiz si el proyecto se hace con Git & GitHub
+
+Carpeta/Archivos para identificar si esta Git & GitHub .git , .gitignore , .gitattributes y README.md
+
+Teoria Git y GitHub
+https://manuais.iessanclemente.net/index.php/Control_de_versiones_con_Git_y_GitHub
+
+Tutorial Git Oficial
+https://try.github.io
+
+Tutorial Git
+http://rypress.com/tutorials/git/the-basics
+
+Existen los GUI Clients que son como git pero entorno grafico
+GitHub (Que funciona un poco fatal) / SourceTree
+
+Branch es la linea de desarrollo que sigue la aplicacion , la master es la
+original mientras que las demas seran lineas alternativas con diferentes
+pruebas en el codigo ya sea para optimizar o eliminar errores.
+
+GitHub evita la subida de archivos superiores a 100 mbs.
+
+Comandos Para La Consola de Git :
+
+git init | Inicia en el directorio actual el proyecto , creando la carpeta .git
+oculta
+
+git status | Muestra los archivos que hay y si estan trackeados
+
+git add ARCHIVO | Indica que archivo tiene que trackear
+
+git commit -m "CAMBIOS" | Prepara para la subida añadiendo ese comentario a la actualizacion
+
+git log | Muestra los Cambios con su fecha y comentario
+
+git remote add origin LINK | Indica el repositorio al que vas a subir los
+archivos a traves de un link
+
+git push -u origin master | Sube los archivos al repositorio indicado ,
+al usar -u la proxima vez solo es necesario usar git push
+
+git pull origin master | Indica si ha habido algun cambio en el repositorio
+
+git diff HEAD |
+
+En el Paquete de Instaladores para este apartado vienen :
+Git
+GitHub
+

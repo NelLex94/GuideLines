@@ -1,0 +1,13 @@
+v3.3.7
+Acceso a la web donde se descarga la ultima version : http://getbootstrap.com/getting-started/#download
+Seleccionar ultima version -
+Descargar v3.3.7 : https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip
+Descargar v3.3.7 Css por CDN : https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+Descargar v3.3.7 Js por CDN : https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+
+v4.0.0 Alpha 6
+Acceso a la web donde se descarga la ultima version : https://v4-alpha.getbootstrap.com/getting-started/download/
+Seleccionar ultima version -
+Descargar v4.0.0 Alpha 6 : https://github.com/twbs/bootstrap/archive/v4.0.0-alpha.6.zip
+Descargar v4.0.0 Alpha 6 Css por CDN : https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css
+Descargar v4.0.0 Alpha 6 Js por CDN : https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js
