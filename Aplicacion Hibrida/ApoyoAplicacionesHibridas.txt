@@ -1,0 +1,2 @@
+Ionic no tiene Git
+no tiene la carpeta platforms 

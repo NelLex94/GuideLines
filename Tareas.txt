@@ -45,5 +45,6 @@ Ionic		-Ionic crea todo menos el git
 
 Txt con la fusion de todos los sistemas para moviles y con ideas de como funcionan como que ionic usa los plugin de cordova
 
-
 Seguir con el tutorial de Angular del Editor de heroes
+
+Resolver tema de subida a github problema por el cambio de carpeta y que ya no es el mismo archivo .git crear nuevo repositorio
