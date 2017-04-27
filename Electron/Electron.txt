@@ -1,4 +1,4 @@
-Es un proyecto de github que contiene node.js , npm y electron.
+Es un proyecto de github que contiene node.js , npm y electron para crear aplicaciones nativas de escritorio
 Asi que hay que abrirlo con el npm start
 
 Para descargar aplicacion de ayuda :

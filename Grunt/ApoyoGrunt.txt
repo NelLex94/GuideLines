@@ -1,0 +1,4 @@
+sirve para automatizar tareas
+minificar
+Guia Grunt (Aprender para que sirve y decidir si instalarlo ) :
+http://ryanchristiani.com/getting-started-with-grunt-and-sass/

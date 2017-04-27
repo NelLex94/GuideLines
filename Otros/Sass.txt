@@ -1,0 +1,2 @@
+es un sistema que ayuda a la mejora de velocidad de creacion de css 
+creando variables que adotpa un valor y que luego puedes establecer 

@@ -1,0 +1,19 @@
+Informacion , que hace , como lo hace , se une a otras cosas etc , que cosas no tiene , 
+para que srive , indicar raiz o directorio de trabajo
+Tutorial y Explicacion
+
+Guia de Instalacion del Sistema
+
+Guias de creacion de proyectos :
+comando | explicacion
+
+Carpetas y subcarpetas indicar de que sirven cada una , donde se trabaja etc y los archivos 
+que contienen si son raros y uqe hacen y que se puede hacer con ellos
+
+Addons aplicaciones etc para el sistema
+
+Tareas Especificas Moverlas a Tareas.txt
+
+Dudas
+
+Paquetes de Instaladores

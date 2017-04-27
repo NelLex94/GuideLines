@@ -1,6 +1,4 @@
-﻿Esta es la raiz si el proyecto se hace con Git & GitHub
-
-Carpeta/Archivos para identificar si esta Git & GitHub .git , .gitignore , .gitattributes y README.md
+﻿Carpeta/Archivos para identificar si esta Git & GitHub .git , .gitignore , .gitattributes y README.md
 
 Teoria Git y GitHub
 https://manuais.iessanclemente.net/index.php/Control_de_versiones_con_Git_y_GitHub
@@ -47,3 +45,13 @@ En el Paquete de Instaladores para este apartado vienen :
 Git
 GitHub
 
+.gitignore :
+Creacion de un git general indicando cosas como el sistema operativo , ides y otros 
+https://www.gitignore.io/
+
+.gitattributes :
+
+Licencia Mit : 
+Esta licencia es una Licencia de software libre permisiva lo que significa que 
+impone muy pocas limitaciones en la reutilización y por tanto posee una excelente 
+Compatibilidad de licencia. La licencia MIT permite reutilizar software dentro de Software propietario. 

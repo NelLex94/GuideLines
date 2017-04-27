@@ -3,48 +3,44 @@ Subir instaladores a algun servidor e indicar en general el link
 
 Buscar Aplicaciones para medir el Rendimiento de una Aplicacion Web y poder Optimizarla
 
-Buscar Informacion sobre como Hacer Tests de las Aplicaciones Web y que se puede obtener de hacer esos tests
-
-Buscar Informacion sobre la Depuracion de Aplicaciones Web / Debugging
-
-Buscar Informacion sobre el .gitignore y .gitattributes
-
-Buscar Informacion sobre Licencias y seleccionar una y añadirla al proyecto de git
-
 Buscar en todos los txt tareas y pasarlas aqui
 
-Buscar informacion sobre Ionic Es un framework para crear aplicaciones moviles con cordova?
+Buscar informacion de sobre  la Depuracion de Aplicaciones Web / Debugging 
+y que se puede obtener de hacer esos tests , 
+la ofuscacion de codigo y Gulp .
 
-Buscar informacion de sobre Sass (grunt)
-
-Animaciones Css con animate Css
-
-Bower Limpia los archivos innecesarios ?
-
-Buscar informacion sobre Gulp
-
-https://market.ionic.io/starters/ionic-starter-template
-
-Informacion sobre la ofuscacion de codigo
-
-Programas ionic para ayudar al desarrollo de la aplicacion la limpieza de bug etc
-
-indicar para que sirve cada uno de los sistemas y con que mas debe usarse o que mas usa ya de por si al iniciarse
+Indicar para que sirve cada uno de los sistemas y con que mas debe usarse o que mas usa ya de por si al iniciarse
 
 Indicar que archivos tiene cada framework o lo que sean
 
-Reorganizar con los conocimientos actuales Unir de este modo
-
-Npm Node.js	-NodeModules
-
-Angular		-SRC	
-
-Cordova		-www
-
-Ionic		-Ionic crea todo menos el git
-
-Txt con la fusion de todos los sistemas para moviles y con ideas de como funcionan como que ionic usa los plugin de cordova
+Txt con la fusion de todos los sistemas para moviles y con ideas de como funcionan como que ionic usa los plugin 
+de cordova
 
 Seguir con el tutorial de Angular del Editor de heroes
 
-Resolver tema de subida a github problema por el cambio de carpeta y que ya no es el mismo archivo .git crear nuevo repositorio
+Añadir a ApoyoGeneral cosas generales , Absolutas , importantes o interesantes, como que es mejor hacer 
+las animaciones con css que con jquery , jquery es 
+mas lento pero sirve para todas las paginas web (animate) encambio css3 es mucho mas rapido pero no lo interpretan 
+los navegadores antiguo probado css3 con keyframes Keyframes es eso de en 0% esto en 50% esto y en 100% esto  
+transiciones son mas rapidas pero menos potentes que los keyframes pero aun asi es mas potente jquery
+
+Organizar mejor apoyos indicando las cosas modo de creacion , consejos , ayudas etc mejor pasarlo todo a textos 
+con formato y organizar las cosas por colores 
+
+Añadir informacion sobre BDD a php
+
+Angular -
+Informacion sobre el tema de Master Template de Angular .
+
+Buscar plugins Atom y Angular 2
+
+Cordova -
+Mirar para ver si se puede instalar los sdk de forma local
+
+Probar instalacion de Jdk y Sdk en la carpeta de proyecto indicar en las variables de entorno y comprobar 
+si funciona 
+
+Node & Npm -
+¿ Cuando cargas con el npm los paquetes estos se cargan en la pagina web ,
+creando asi un paquete mas pesado para el usuario y que realentize la carga
+de la pagina web ?

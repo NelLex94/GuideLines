@@ -47,6 +47,7 @@ Aplicacion Online : http://www.minifier.org/
 Plugin Atom : atom-minify (Control + Shift + M)
 
 La minificacion de Html y Php puede provocar problemas de contenido y programacion
+asi que no es tan util y aconsejable de usar
 
 Minify Html
 Aplicacion Escritorio :
@@ -70,5 +71,10 @@ Mozilla Firefox
 Internet Explorer
 Microsoft Edge
 
+Diferencias entre
 Libreria : proporciona una serie de funciones/métodos muy concretos para simplificar tareas complejas.
 FrameWork : aporta una estructura completa en la que nosotros "encajamos" nuestro código, implementando la lógica concreta de la aplicación.
+
+Al crear un aplicacion que funcione con algun tercero deberemos de usar la api de ese tercero
+
+Es muy importante al crear un aplicacion movil testearla en ese entorno debido a la diferencia de potencia que hay entre un Pc y un Movil

@@ -1,12 +1,13 @@
-Unido a un proyecto de cordova y angular ¿?
-Ionic creator , crea las aplicaciones de moviles con interfaz grafica 
+Unido a un proyecto de Cordova y Angular para crear una aplicacion movil 
 
-Ionic View Aplicacion movil para ver las aplicaciones desrrolladas en la nube
-
-IONIC usa los plugins de cordova?
+No incluye Git
+La carpeta platforms no existe
+IONIC usa los plugins de cordova
 
 npm install -g cordova ionic
+
 ionic start --v2 "NombreProyecto" "PlantillaACargar" | el v2 es la version ionic 2
+
 ionic serve | lanzar en elnavegador
 
 Plantilla tutorial | ionic start MyIonic2Project tutorial --v2 | el comando tutorial hace que se baje la plantilla del tutorial
@@ -15,5 +16,10 @@ Plantilla Iniciar | ionic start "NombreProyecto" --v2 |
 
 MyIonic2Project es el tutorial cambiar el nombre por tutorial
 
+Plantilla con muchas cosas interesantes
+https://market.ionic.io/starters/ionic-starter-template
 
-Revisar si reune todo tanto angular git node etc
+Ionic Creator - Drag and Drop para construir las aplicaciones
+Ionic View - Testing para moviles
+Ionic Package - Build la app en la nube
+Ionic Deploy - Live Testing en movil

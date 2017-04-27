@@ -1,10 +1,8 @@
-﻿Esta es la raiz si el proyecto se hace con Node.Js / Npm
+﻿Node y Npm son gestores de paquetes , crean un archivo que indica que paquetes tiene un proyecto instalados 
+a partir del archivo packaje.json
 
-se puede iniciar con npm init (-yes / --y ) hace un archivo package.json si usas los comandos 
+Se puede iniciar con npm init (-yes / --y ) hace un archivo package.json si usas los comandos 
 indicados lo hace directamente con un predetrminado 
-
-Guia Grunt (Aprender para que sirve y decidir si instalarlo ) :
-http://ryanchristiani.com/getting-started-with-grunt-and-sass/
 
 Guia Node.js & Npm :
 https://www.jmramirez.pro/tutorial/instalacion-del-entorno-node-js/
@@ -24,10 +22,6 @@ ejecuntando un comando que abra ese packaje
 ( npm install --save )
 poniendo npm install se accede al package.json y se descargan todos los modulos
 
-¿ Cuando cargas con el npm los paquetes estos se cargan en la pagina web ,
-creando asi un paquete mas pesado para el usuario y que realentize la carga
-de la pagina web ?
-
 Si se pide que la instalacion sea global(-g) de algun paquete es porque usa comandos en el cmd 
 
 Para utilizar los modulos
@@ -37,7 +31,7 @@ var output = <package_name>.funcion();
 En el Paquete de Instaladores para este apartado vienen :
 Node.js & Npm
 
-archivos y carpetas que marcan el uso de este sistema node modules y package.json
+Los archivos y carpetas que marcan el uso de este sistema node modules y package.json
 
 
 

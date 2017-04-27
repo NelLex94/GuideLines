@@ -1,0 +1,3 @@
+Ejecuta las tareas que se realizan de forma repetitivas mediante plugins
+contiene un archivo llamado gruntfile.js o .coffe ¿? y se usa para configurar las tareas y cargas de plugins 
+https://gruntjs.com/getting-started

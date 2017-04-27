@@ -14,6 +14,7 @@ Cada uno en su carpeta correspondiente
 Css contiene :
 Main Css que se aplica a toda la pagina web
 Secondary Css que se aplica a cada Subtema especificamente
+Animate son los efectos de animacion basados en css
 
 Fonts contiene :
 Todos los archivos con la fuente tipografica

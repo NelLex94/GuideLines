@@ -1,14 +1,13 @@
-Esta es la raiz si el proyecto se hace con Cordova
 Cordova sirve para crear aplicaciones Multiplataforma a partir de Html / Css / Js
 Es necesario instalar los plugins que permitan el acceso a los componentes del movil
 
 npm install -g cordova
 
 cordova create hello com.example.hello HelloWorld
-cordova create hello(<path>) com.example.hello(NombrePaqueteApp) HelloWorld(NombreApp) |
+cordova create hello(ruta/carpeta) com.example.hello(NombrePaqueteApp) HelloWorld(NombreApp) |
 https://cordova.apache.org/docs/en/latest/reference/cordova-cli/index.html#cordova-create-command
 
-cd <path> | entra
+cd <ruta/carpeta> | entra
 
 cordova platform add browser / ios / andriod | Añade la plataforma de navegador
 
@@ -33,33 +32,16 @@ cordova emulate | Recarga la aplicacion y muestra la ultima version ¿?
 cordova plugin NombrePlugin | Descarga el plugin
 cordova plugin ls | Ver plugins instalados
 
-Usar Transiciones de Css mejor que Animaciones de JavaScript
-
-Los Test en Moviles son necesarios debido a la diferencia de potencia entre movil y ordenador
-
-Al instalar tanto sdk como jdk y gradle fijarse en la ruta
+Al instalar tanto el Sdk como el Jdk fijarse en la ruta
+Preferiblemente en la raiz de C:/ es el unico sitio donde funciona al parecer de momento
 
 Video Para la edicion de las variables de entorno
 https://www.youtube.com/watch?v=Vngqn6pS74A
 https://www.youtube.com/watch?v=IuBFxlvdHAw
 
-
-C:\Program Files\Java\jdk1.8.0_121\bin
-
-Preguntar a ramon como meter los sdk jdk y todo eso en el propio proyecto 
-necesito Java JDK Android SDK Android Target Gradle ¿Browser(check_reqs)?
-se pueden descargar en un modulo con npm? 
-El android estudio tiene el android sdk manager
-
-
-
-Mirar para ver si se puede instalar los sdk de forma local
-
 En el Paquete de Instaladores para este apartado vienen :
 Android SDK Manager
 JDK
 
-Archivos y carpetas que indicaan el uso de este sistema hooks , platforms , plugins , config.xml  pero sobretodo WWW que es donde esta el indice.html el directorio de trabjao
-
-
-
+Archivos y carpetas que indicaan el uso de este sistema hooks , platforms , plugins , config.xml  
+pero sobretodo WWW que es donde esta el indice.html el directorio de trabjao
